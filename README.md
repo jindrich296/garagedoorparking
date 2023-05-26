@@ -48,8 +48,8 @@ POZOR! Pro oboji je potreba 5V napajeni
 | SONOFF RELAY    | connected to     |
 | ----------------| ---------- |
 | [no color]  GND   | ESP32 GND  |
-| [no color]  IN1   | ESP32 GPIO16  |
-| [no color]  IN2   | ESP32 GPIO17  |
+| [no color]  IN1   | ESP32 GPIO16 RX |
+| [no color]  IN2   | ESP32 GPIO17 TX |
 | [no color]  VCC   | ESP32 VCC 5V  |
 
 
