@@ -32,17 +32,17 @@ POZOR! Pro oboji je potreba 5V napajeni
 
 | HC-SR04  Ultrasonic Distance Sensor 1  | connected to     |
 | ----------------| ---------- |
-| [white/yellow]  VCC   | ESP32 VCC 5V  |
-| [red/orange]  trigger   | ESP32 GPIO32  |
-| [green/red]  echo   | ESP32 GPIO33  |
-| [blue/green]  GND   | ESP32 GND  |
+| [white]  VCC   | ESP32 VCC 5V  |
+| [red]  trigger   | ESP32 GPIO32  |
+| [green]  echo   | ESP32 GPIO33  |
+| [blue]  GND   | ESP32 GND  |
 
 | HC-SR04  Ultrasonic Distance Sensor 2  | connected to     |
 | ----------------| ---------- |
-| [white/yellow]  VCC   | ESP32 VCC 5V  |
-| [red/orange]  trigger   | ESP32 GPIO14  |
-| [green/red]  echo   | ESP32 GPIO12  |
-| [blue/green]  GND   | ESP32 GND  |
+| [white]  VCC   | ESP32 VCC 5V  |
+| [red]  trigger   | ESP32 GPIO14  |
+| [green]  echo   | ESP32 GPIO12  |
+| [blue]  GND   | ESP32 GND  |
 
 
 | SONOFF RELAY    | connected to     |
